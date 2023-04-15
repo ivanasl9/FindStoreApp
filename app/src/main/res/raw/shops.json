@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Trgovina-Sve za Vaš vrt",
+    "address": "Ul. Hrvatske Republike 12, Osijek",
+    "delivery_charge": 5,
+    "image": "https://img.freepik.com/free-photo/narrow-pathway-garden-surrounded-by-lot-colorful-flowers_181624-13183.jpg",
+    "hours": {
+      "Sunday": "CLOSED",
+      "Monday": "07:00 AM - 15:00 PM",
+      "Tuesday": "07:00 AM - 15:00 PM",
+      "Wednesday": "08:00 AM - 17:00 PM",
+      "Thursday": "08:00 AM - 17:00 PM",
+      "Friday": "07:00 AM - 13:00 PM",
+      "Saturday": "07:00 AM - 13:00 PM"
+    },
+    "products": [
+      {
+        "name": "Kosilica",
+        "price": 45,
+        "url": "https://media.istockphoto.com/id/520135246/photo/mowing-the-grass.jpg?s=612x612&w=0&k=20&c=9ZlrazlneuDiU6Rdv9nYq0k_ZNoGwJ_JXTiE8djJGVc="
+      },
+      {
+        "name": "Vrtne škare",
+        "price": 5.99,
+        "url": "https://cdn.pixabay.com/photo/2016/04/18/11/45/shear-1336374__340.jpg"
+      },
+      {
+        "name": "Vrtne grablje",
+        "price": 7.99,
+        "url": "https://cdn.pixabay.com/photo/2017/11/03/21/22/rake-2915742__340.jpg"
+      },
+      {
+        "name": "Vrtna kolica",
+        "price": 30,
+        "url": "https://media.istockphoto.com/id/167201469/photo/wagon-in-the-yard.jpg?s=612x612&w=0&k=20&c=tcxoUboiPKcYsHZgRvMZyLT9XI2vIy3czFRCKOB_oZ0="
+      },
+      {
+        "name": "Trava-sjeme",
+        "price": 3.1,
+        "url": "https://media.istockphoto.com/id/179605722/photo/seeds-sack.jpg?s=612x612&w=0&k=20&c=l7hW2YWbfJXHvolPqxK2sq_HCT1b2T_S_GfESqKYE-s="
+      },
+      {
+        "name": "Vrtna lopatica",
+        "price": 4.29,
+        "url": "https://img.freepik.com/free-photo/garden-trowel_93675-133335.jpg?w=2000"
+      },
+      {
+        "name": "Kanta za zaljevanje",
+        "price": 2.49,
+        "url": "https://media.istockphoto.com/id/963814404/photo/watering-can-pouring-water-isolated.jpg?s=612x612&w=0&k=20&c=rFe5cajEfN8el9e3GC-5Fe3B_goyrmAl6fQBgGlSoeQ="
+      },
+      {
+        "name": "Vrtno crijevo",
+        "price": 3.99,
+        "url": "https://thumbs.dreamstime.com/b/garden-hose-green-rolled-up-isolated-white-background-42862639.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Kućanski aparati d.o.o.",
+    "address": "Županijska ul. 2, Osijek",
+    "delivery_charge": 4,
+    "image": "https://thumbs.dreamstime.com/b/set-modern-home-appliances-white-marble-table-kitchen-185852338.jpg",
+    "hours": {
+      "Sunday": "CLOSED",
+      "Monday": "07:00 AM - 15:00 PM",
+      "Tuesday": "07:00 AM - 15:00 PM",
+      "Wednesday": "08:00 AM - 17:00 PM",
+      "Thursday": "08:00 AM - 17:00 PM",
+      "Friday": "07:00 AM - 13:00 PM",
+      "Saturday": "07:00 AM - 13:00 PM"
+    },
+    "products": [
+      {
+        "name": "Usisavač",
+        "price": 35.99,
+        "url": "https://thumbs.dreamstime.com/b/vacuum-cleaner-15789012.jpg"
+      },
+      {
+        "name": "Aparat za kavu",
+        "price": 25.59,
+        "url": "https://media.istockphoto.com/id/524908249/photo/coffee-blender-and-boiler-machine-in-kitchen-interior.jpg?s=612x612&w=0&k=20&c=0JWEuctoshrvOj-tRACbLqZH5wicdT9xOCe7zeEULYs="
+      },
+      {
+        "name": "Perilica posuđa",
+        "price": 50.44,
+        "url": "https://media.istockphoto.com/id/903658156/photo/open-dishwasher-with-clean-dishes-at-home-kitchen.jpg?s=612x612&w=0&k=20&c=Z3HUOnC3kCk5dZJrn-voAlY8p3n9zKrPK3cu9oKX4YU="
+      },
+      {
+        "name": "Kuhinjska napa",
+        "price": 80,
+        "url": "https://media.istockphoto.com/id/166025339/photo/luxury-kitchen.jpg?s=612x612&w=0&k=20&c=pf_M91Fn3qD3b17AOW91Uuz8jN_T3-7-PwDl9pVjMuw="
+      },
+      {
+        "name": "Mikrovalna pećnica",
+        "price": 40.49,
+        "url": "https://media.istockphoto.com/id/182915079/photo/microwave-oven.jpg?s=612x612&w=0&k=20&c=dbSOoDz0KBawI7wxXkhm3DxuYfK0O6WLiwdx1xu4KhU="
+      },
+      {
+        "name": "Glačalo",
+        "price": 10.95,
+        "url": "https://img.freepik.com/free-vector/white-blue-iron-side-view-realistic-vector-illustration_1284-66726.jpg"
+      },
+      {
+        "name": "Grijalica",
+        "price": 27,
+        "url": "https://media.istockphoto.com/id/506856980/photo/electric-heater.jpg?s=612x612&w=0&k=20&c=CUaRVofCZMYUuQq5hcqn7BKKtlZ-N09AT9LvLm-TrW4="
+      },
+      {
+        "name": "Sušilica rublja",
+        "price": 31.49,
+        "url": "https://media.istockphoto.com/id/1135191858/photo/clothes-dryer-3d-rendering-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=D-I4XOO0vuz8dDUgA4OyzdCWL6egT3A9HKd8tjpChAU="
+      }
+    ]
+  },
+  {
+    "name": "Vrtni namještaj d.o.o.",
+    "address": "Ul. Stjepana Radića 3, Osijek",
+    "delivery_charge": 5,
+    "image": "https://media.istockphoto.com/id/959559758/photo/rattan-table-with-fruit.jpg?s=612x612&w=0&k=20&c=qnLsh2-detqw4XrLdMwFBta59lNa_Bw3RNtNRBDyeds=",
+    "hours": {
+      "Sunday": "CLOSED",
+      "Monday": "07:00 AM - 15:00 PM",
+      "Tuesday": "07:00 AM - 15:00 PM",
+      "Wednesday": "08:00 AM - 17:00 PM",
+      "Thursday": "08:00 AM - 17:00 PM",
+      "Friday": "07:00 AM - 13:00 PM",
+      "Saturday": "07:00 AM - 13:00 PM"
+    },
+    "products": [
+      {
+        "name": "Drveni stol i stolice",
+        "price": 300.95,
+        "url": "https://cdn.pixabay.com/photo/2015/07/05/07/47/garden-831995__340.jpg"
+      },
+      {
+        "name": "Drvene stolice",
+        "price": 40.59,
+        "url": "https://media.istockphoto.com/id/513230203/photo/two-deck-chairs-overlooking-a-garden.jpg?s=612x612&w=0&k=20&c=BP-PY1mtXKwfW3GnudblYJZNDjUq_3XTSrkNfd_2Lxs="
+      },
+      {
+        "name": "Vrtni namještaj + lounge stolica",
+        "price": 700,
+        "url": "https://media.istockphoto.com/id/1208657520/photo/garden-patio-decorated-with-scandinavian-wicker-sofa-and-coffee-table.jpg?s=612x612&w=0&k=20&c=CPqEZBiSj94NEtk1_KhD28HuSevF7oRd2DTiLGGbR1I="
+      },
+      {
+        "name": "Namještaj kućanskog interijera",
+        "price": 200.99,
+        "url": "https://img.freepik.com/free-photo/domestic-furniture-background-room-interior_1203-4865.jpg"
+      },
+      {
+        "name": "Stolice u boji",
+        "price": 50,
+        "url": "https://media.istockphoto.com/id/116005914/photo/inviting-chairs.jpg?s=612x612&w=0&k=20&c=M3nWy76-v2fv9cmrqZlSV0qUFpHUUg47kSRVkVZCwiM="
+      },
+      {
+        "name": "Umbrella stolica",
+        "price": 30.99,
+        "url": "https://img.freepik.com/free-photo/umbrella-deck-chair-around-outdoor-swimming-pool-hotel-resort-with-sea-ocean-beach-coconut-palm-tree_74190-14086.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Uređenje doma d.o.o.",
+    "address": "Ul. Ivana Gundulića 12, Osijek",
+    "delivery_charge": 3,
+    "image": "https://media.istockphoto.com/id/1158575634/photo/interior-with-armchair-and-coffee-table-3d-rendering.jpg?s=612x612&w=0&k=20&c=eBrIx3t7p5yElgACCtkJ2Z0gUCTfBfjF_tWPRHU6cmw=",
+    "hours": {
+      "Sunday": "CLOSED",
+      "Monday": "07:00 AM - 15:00 PM",
+      "Tuesday": "07:00 AM - 15:00 PM",
+      "Wednesday": "08:00 AM - 17:00 PM",
+      "Thursday": "08:00 AM - 17:00 PM",
+      "Friday": "07:00 AM - 13:00 PM",
+      "Saturday": "07:00 AM - 13:00 PM"
+    },
+    "products": [
+      {
+        "name": "Ormar",
+        "price": 70,
+        "url": "https://media.istockphoto.com/id/1141212809/photo/modern-wooden-wardrobe-with-women-clothes-hanging-on-rail-in-walk-in-closet-design-interior.jpg?s=612x612&w=0&k=20&c=U3QClFyyWPyBLEXHB9YAqdhumXoiOK7YVDwZfa18P6U="
+      },
+      {
+        "name": "Krevet",
+        "price": 55.25,
+        "url": "https://media.istockphoto.com/id/1400492004/photo/empty-blue-wall-in-modern-and-cozy-bedroom-mock-up-interior-in-contemporary-style-free-space.jpg?b=1&s=170667a&w=0&k=20&c=IkM_189XZnimOA3AYm22-9W4PsuwstuA1EI5iGAfHB0="
+      },
+      {
+        "name": "Vaza",
+        "price": 10,
+        "url": "https://media.istockphoto.com/id/1187202343/photo/eucalyptus-branch-in-a-vase-on-the-rustic-wooden-table.jpg?s=612x612&w=0&k=20&c=icMlV-zxleEE23EHXWS81J0Bny2iBb3LtDLBu3VyxHU="
+      },
+      {
+        "name": "Lampa",
+        "price": 12.99,
+        "url": "https://media.istockphoto.com/id/947334652/photo/desk-lamp-on-white-background-photo-with-clipping-path.jpg?s=612x612&w=0&k=20&c=FvRRsUjCnLaNffVuBZMnOt_8jnuPBltzUxSbdoLvKng="
+      },
+      {
+        "name": "Jastuci u bijeloj boji",
+        "price": 8.09,
+        "url": "https://thumbs.dreamstime.com/b/pillow-21574116.jpg"
+      },
+      {
+        "name": "Tepih",
+        "price": 5.47,
+        "url": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcGYtczExMC1wbS0zMjk4LW1vY2t1cF8zLnBuZw.png?s=FjqV5TwDcSyCS2JVV78V-C1N9HQH10OLq9GDVVRH2HA"
+      }
+    ]
+  }
+]

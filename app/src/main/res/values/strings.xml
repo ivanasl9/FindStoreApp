@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ShopsListApp</string>
+    <string name="checkout">Checkout</string>
+    <string name="total_items_in_cart">Total items in cart</string>
+    <string name="sub_total">Sub total</string>
+    <string name="delivery_charge">Delivery Charge</string>
+    <string name="total">Total</string>
+    <string name="place_your_order">Place your order</string>
+    <string name="enter_card_pin_3_digits">Enter Card pin(3 digits)</string>
+    <string name="enter_card_expiry_mm_yyyy">Enter Card expiry(mm/yyyy)</string>
+    <string name="enter_card_number">Enter Card Number</string>
+    <string name="card_details">Card Details</string>
+    <string name="enter_your_zip">Enter your zip</string>
+    <string name="enter_your_state">Enter your state</string>
+    <string name="enter_your_city">Enter your city</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="delivery">Delivery</string>
+    <string name="pickup">Pickup your order</string>
+    <string name="customer_details">Customer Details</string>
+    <string name="order">Thank you for Your order! \n It will be procedded soon.</string>
+    <string name="done">Done</string>
+    <string name="thumbimage">thumbImage</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="addone">addOne</string>
+    <string name="_1">1</string>
+    <string name="thumbImage">DescImage</string>
+    <string name="imageMinus">DescImageMinus</string>
+    <string name="slider">slider</string>
+    <string name="img">img</string>
+    <string name="lorem">Lorem</string>
+    <string name="zero">€0.0</string>
+    <string name="tvContinue">Continue</string>
+    <string name="Switch">switchlayout</string>
+
+</resources>

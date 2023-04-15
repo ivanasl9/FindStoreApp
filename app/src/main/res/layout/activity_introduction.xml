@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".IntroductionActivity"
+    tools:ignore="Overdraw">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPagerSlider"
+        android:layout_width="match_parent"
+        android:layout_height="420dp"
+        android:contentDescription="@string/slider" />
+
+    <LinearLayout
+        android:id="@+id/linearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/viewPagerSlider"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.tbuonomo.viewpagerdotsindicator.SpringDotsIndicator
+            android:id="@+id/spring_dots_indicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:dampingRatio="0.5"
+            app:dotsColor="@color/purple_200"
+            app:dotsCornerRadius="2dp"
+            app:dotsSize="16dp"
+            app:dotsSpacing="6dp"
+            app:dotsStrokeColor="@color/teal_200"
+            app:dotsStrokeWidth="2dp"
+            app:stiffness="300" />
+
+        <Button
+            android:id="@+id/btnC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="@string/tvContinue"
+            android:textColor="@color/black" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>
